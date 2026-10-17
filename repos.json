@@ -1,0 +1,596 @@
+[
+ {
+  "folder": "torchscript-models",
+  "name": "torchscript-models",
+  "description": "Create JIT libtorch models from pytorch models",
+  "clone_url": "https://github.com/storytold/torchscript-models.git",
+  "html_url": "https://github.com/storytold/torchscript-models",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "voder-proxy",
+  "name": "voder-proxy",
+  "description": "proxy to the backend voder/tts_service",
+  "clone_url": "https://github.com/storytold/voder-proxy.git",
+  "html_url": "https://github.com/storytold/voder-proxy",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "realtime-voice-conversion",
+  "name": "realtime-voice-conversion",
+  "description": "Stream audio from the mic to the model to the speaker",
+  "clone_url": "https://github.com/storytold/realtime-voice-conversion.git",
+  "html_url": "https://github.com/storytold/realtime-voice-conversion",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "discord-vocodes",
+  "name": "discord-vocodes",
+  "description": "",
+  "clone_url": "https://github.com/storytold/discord-vocodes.git",
+  "html_url": "https://github.com/storytold/discord-vocodes",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "point-generator",
+  "name": "point-generator",
+  "description": "DEPRECATED generate points to send to the unreal engine demo",
+  "clone_url": "https://github.com/storytold/point-generator.git",
+  "html_url": "https://github.com/storytold/point-generator",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "cloudcam",
+  "name": "cloudcam",
+  "description": "Handles polling the cameras and generating the pointclouds",
+  "clone_url": "https://github.com/storytold/cloudcam.git",
+  "html_url": "https://github.com/storytold/cloudcam",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "k4a-sys-temp",
+  "name": "k4a-sys-temp",
+  "description": "A patched version of k4a-sys that builds on linux",
+  "clone_url": "https://github.com/storytold/k4a-sys-temp.git",
+  "html_url": "https://github.com/storytold/k4a-sys-temp",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "Azure-Kinect-Sample-for-Unity",
+  "name": "Azure-Kinect-Sample-for-Unity",
+  "description": "",
+  "clone_url": "https://github.com/storytold/Azure-Kinect-Sample-for-Unity.git",
+  "html_url": "https://github.com/storytold/Azure-Kinect-Sample-for-Unity",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "CloudCamPlugin",
+  "name": "CloudCamPlugin",
+  "description": "UE Plugin: Renders point clouds sent via the cloudcam program",
+  "clone_url": "https://github.com/storytold/CloudCamPlugin.git",
+  "html_url": "https://github.com/storytold/CloudCamPlugin",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "UnrealZeroMQ",
+  "name": "UnrealZeroMQ",
+  "description": "ZeroMQ plugin for UE4",
+  "clone_url": "https://github.com/storytold/UnrealZeroMQ.git",
+  "html_url": "https://github.com/storytold/UnrealZeroMQ",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "EventCenterPlugin",
+  "name": "EventCenterPlugin",
+  "description": "UE Plugin: Bind Redis PubSub-based events (WIP)",
+  "clone_url": "https://github.com/storytold/EventCenterPlugin.git",
+  "html_url": "https://github.com/storytold/EventCenterPlugin",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "StreamTwo",
+  "name": "StreamTwo",
+  "description": "Unreal Engine Project for the second stream",
+  "clone_url": "https://github.com/storytold/StreamTwo.git",
+  "html_url": "https://github.com/storytold/StreamTwo",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "RuntimeAudioImporter",
+  "name": "RuntimeAudioImporter",
+  "description": "Runtime Audio Importer plugin for Unreal Engine 4 (mp3, wav)",
+  "clone_url": "https://github.com/storytold/RuntimeAudioImporter.git",
+  "html_url": "https://github.com/storytold/RuntimeAudioImporter",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "RuntimeFilesDownloader",
+  "name": "RuntimeFilesDownloader",
+  "description": "Runtime Files Downloader plugin for Unreal Engine",
+  "clone_url": "https://github.com/storytold/RuntimeFilesDownloader.git",
+  "html_url": "https://github.com/storytold/RuntimeFilesDownloader",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "ActorSpawningPlugin",
+  "name": "ActorSpawningPlugin",
+  "description": "UE Plugin: Spawn actors and more in-engine",
+  "clone_url": "https://github.com/storytold/ActorSpawningPlugin.git",
+  "html_url": "https://github.com/storytold/ActorSpawningPlugin",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "LiveScan3D",
+  "name": "LiveScan3D",
+  "description": "real time 3D reconstruction using multiple Azure Kinect",
+  "clone_url": "https://github.com/storytold/LiveScan3D.git",
+  "html_url": "https://github.com/storytold/LiveScan3D",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "UE4-OSC",
+  "name": "UE4-OSC",
+  "description": "OSC plugin for Unreal Engine 4 Blueprints",
+  "clone_url": "https://github.com/storytold/UE4-OSC.git",
+  "html_url": "https://github.com/storytold/UE4-OSC",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "redirect-vocodes",
+  "name": "redirect-vocodes",
+  "description": "Netlify redirect vo.codes -> fakeyou.com",
+  "clone_url": "https://github.com/storytold/redirect-vocodes.git",
+  "html_url": "https://github.com/storytold/redirect-vocodes",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "storyteller-ml",
+  "name": "storyteller-ml",
+  "description": "Tacotron core, eventually with more models",
+  "clone_url": "https://github.com/storytold/storyteller-ml.git",
+  "html_url": "https://github.com/storytold/storyteller-ml",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "failed"
+ },
+ {
+  "folder": "artcraft",
+  "name": "artcraft",
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "clone_url": "https://github.com/storytold/artcraft.git",
+  "html_url": "https://github.com/storytold/artcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "motion-capture-data",
+  "name": "motion-capture-data",
+  "description": "Data from mocap sessions",
+  "clone_url": "https://github.com/storytold/motion-capture-data.git",
+  "html_url": "https://github.com/storytold/motion-capture-data",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "xsens-packet-send",
+  "name": "xsens-packet-send",
+  "description": "Send XSENS packets (from Wireshark) to Unreal without Xsens",
+  "clone_url": "https://github.com/storytold/xsens-packet-send.git",
+  "html_url": "https://github.com/storytold/xsens-packet-send",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "AnimationTest",
+  "name": "AnimationTest",
+  "description": "UE5 VTuber show HyperJail",
+  "clone_url": "https://github.com/storytold/AnimationTest.git",
+  "html_url": "https://github.com/storytold/AnimationTest",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "HyperJail",
+  "name": "HyperJail",
+  "description": "HyperJail is a UE5-powered VTubing Experiment",
+  "clone_url": "https://github.com/storytold/HyperJail.git",
+  "html_url": "https://github.com/storytold/HyperJail",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "fakeyou-recast",
+  "name": "fakeyou-recast",
+  "description": "",
+  "clone_url": "https://github.com/storytold/fakeyou-recast.git",
+  "html_url": "https://github.com/storytold/fakeyou-recast",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "hanashi-graphics-demo",
+  "name": "hanashi-graphics-demo",
+  "description": "demo of mrDIMAS fyrox wasm",
+  "clone_url": "https://github.com/storytold/hanashi-graphics-demo.git",
+  "html_url": "https://github.com/storytold/hanashi-graphics-demo",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "vits-finetuning",
+  "name": "vits-finetuning",
+  "description": "",
+  "clone_url": "https://github.com/storytold/vits-finetuning.git",
+  "html_url": "https://github.com/storytold/vits-finetuning",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "storyteller-bevy",
+  "name": "storyteller-bevy",
+  "description": "Bevy exploration",
+  "clone_url": "https://github.com/storytold/storyteller-bevy.git",
+  "html_url": "https://github.com/storytold/storyteller-bevy",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "html_test",
+  "name": "html_test",
+  "description": "test",
+  "clone_url": "https://github.com/storytold/html_test.git",
+  "html_url": "https://github.com/storytold/html_test",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "terraform-aws-observability-accelerator",
+  "name": "terraform-aws-observability-accelerator",
+  "description": "Open source project to help accelerate and ease observability setup on AWS environments",
+  "clone_url": "https://github.com/storytold/terraform-aws-observability-accelerator.git",
+  "html_url": "https://github.com/storytold/terraform-aws-observability-accelerator",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "bevy-mocap",
+  "name": "bevy-mocap",
+  "description": "",
+  "clone_url": "https://github.com/storytold/bevy-mocap.git",
+  "html_url": "https://github.com/storytold/bevy-mocap",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "irsa-manager",
+  "name": "irsa-manager",
+  "description": "",
+  "clone_url": "https://github.com/storytold/irsa-manager.git",
+  "html_url": "https://github.com/storytold/irsa-manager",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "FineTrainers-Conditioning",
+  "name": "FineTrainers-Conditioning",
+  "description": "",
+  "clone_url": "https://github.com/storytold/FineTrainers-Conditioning.git",
+  "html_url": "https://github.com/storytold/FineTrainers-Conditioning",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "placeholder-artcraft",
+  "name": "placeholder-artcraft",
+  "description": "Artcraft",
+  "clone_url": "https://github.com/storytold/placeholder-artcraft.git",
+  "html_url": "https://github.com/storytold/placeholder-artcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "spark",
+  "name": "spark",
+  "description": "An advanced 3D Gaussian Splatting renderer for THREE.js",
+  "clone_url": "https://github.com/storytold/spark.git",
+  "html_url": "https://github.com/storytold/spark",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "github-media",
+  "name": "github-media",
+  "description": "Videos for Github READMEs, etc.",
+  "clone_url": "https://github.com/storytold/github-media.git",
+  "html_url": "https://github.com/storytold/github-media",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "artcraftx",
+  "name": "artcraftx",
+  "description": "ArtCraft-X",
+  "clone_url": "https://github.com/storytold/artcraftx.git",
+  "html_url": "https://github.com/storytold/artcraftx",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "cloud-worker",
+  "name": "cloud-worker",
+  "description": "",
+  "clone_url": "https://github.com/storytold/cloud-worker.git",
+  "html_url": "https://github.com/storytold/cloud-worker",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "artcraft-services",
+  "name": "artcraft-services",
+  "description": "backend, web frontend, etc.",
+  "clone_url": "https://github.com/storytold/artcraft-services.git",
+  "html_url": "https://github.com/storytold/artcraft-services",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "photocraft",
+  "name": "photocraft",
+  "description": "PhotoCraft: open-source photo editor in pure Rust",
+  "clone_url": "https://github.com/storytold/photocraft.git",
+  "html_url": "https://github.com/storytold/photocraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "pdfcraft",
+  "name": "pdfcraft",
+  "description": "PdfCraft: open-source PDF reader and editor in pure Rust",
+  "clone_url": "https://github.com/storytold/pdfcraft.git",
+  "html_url": "https://github.com/storytold/pdfcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "filmcraft",
+  "name": "filmcraft",
+  "description": "FilmCraft: open-source nonlinear video editor in pure Rust",
+  "clone_url": "https://github.com/storytold/filmcraft.git",
+  "html_url": "https://github.com/storytold/filmcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "vectorcraft",
+  "name": "vectorcraft",
+  "description": "VectorCraft: open-source vector art tool in pure Rust",
+  "clone_url": "https://github.com/storytold/vectorcraft.git",
+  "html_url": "https://github.com/storytold/vectorcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "lightcraft",
+  "name": "lightcraft",
+  "description": "LightCraft: open-source non-destructive photo editor in pure Rust",
+  "clone_url": "https://github.com/storytold/lightcraft.git",
+  "html_url": "https://github.com/storytold/lightcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "designcraft",
+  "name": "designcraft",
+  "description": "DesignCraft: open-source page and layout design editor in pure Rust",
+  "clone_url": "https://github.com/storytold/designcraft.git",
+  "html_url": "https://github.com/storytold/designcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "effectcraft",
+  "name": "effectcraft",
+  "description": "EffectCraft: open-source motion graphics and compositing tool in pure Rust",
+  "clone_url": "https://github.com/storytold/effectcraft.git",
+  "html_url": "https://github.com/storytold/effectcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "photocraft-corpus",
+  "name": "photocraft-corpus",
+  "description": "Test data for photocraft",
+  "clone_url": "https://github.com/storytold/photocraft-corpus.git",
+  "html_url": "https://github.com/storytold/photocraft-corpus",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "craft-fonts",
+  "name": "craft-fonts",
+  "description": "Fonts for the Crafting Apps",
+  "clone_url": "https://github.com/storytold/craft-fonts.git",
+  "html_url": "https://github.com/storytold/craft-fonts",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "indd-utils",
+  "name": "indd-utils",
+  "description": "Read INDD files without InDesign; convert to IDML",
+  "clone_url": "https://github.com/storytold/indd-utils.git",
+  "html_url": "https://github.com/storytold/indd-utils",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "gridcraft",
+  "name": "gridcraft",
+  "description": "GridCraft: open-source clean-room spreadsheet (Excel-style) in pure Rust",
+  "clone_url": "https://github.com/storytold/gridcraft.git",
+  "html_url": "https://github.com/storytold/gridcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "cadcraft",
+  "name": "cadcraft",
+  "description": "CADCraft: computer-aided design and drafting, AutoCAD-style in pure Rust",
+  "clone_url": "https://github.com/storytold/cadcraft.git",
+  "html_url": "https://github.com/storytold/cadcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "deckcraft",
+  "name": "deckcraft",
+  "description": "open-source clean-room reimplementation of Microsoft PowerPoint in pure Rust",
+  "clone_url": "https://github.com/storytold/deckcraft.git",
+  "html_url": "https://github.com/storytold/deckcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "soundcraft",
+  "name": "soundcraft",
+  "description": "open-source clean-room reimplementation of Avid Pro Tools in pure Rust",
+  "clone_url": "https://github.com/storytold/soundcraft.git",
+  "html_url": "https://github.com/storytold/soundcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "wordcraft",
+  "name": "wordcraft",
+  "description": "open-source clean-room reimplementation of Microsoft Word in pure Rust",
+  "clone_url": "https://github.com/storytold/wordcraft.git",
+  "html_url": "https://github.com/storytold/wordcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "craft-repo-status-app",
+  "name": "craft-repo-status-app",
+  "description": "See the status of PRs, builds, etc.",
+  "clone_url": "https://github.com/storytold/craft-repo-status-app.git",
+  "html_url": "https://github.com/storytold/craft-repo-status-app",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "craft-libs",
+  "name": "craft-libs",
+  "description": "Rust libraries for the Craft Apps",
+  "clone_url": "https://github.com/storytold/craft-libs.git",
+  "html_url": "https://github.com/storytold/craft-libs",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "figcraft",
+  "name": "figcraft",
+  "description": "FigCraft: interface design and prototyping, open-source clean-room reimplementation",
+  "clone_url": "https://github.com/storytold/figcraft.git",
+  "html_url": "https://github.com/storytold/figcraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "craft-launcher",
+  "name": "craft-launcher",
+  "description": "The Craft App Launcher",
+  "clone_url": "https://github.com/storytold/craft-launcher.git",
+  "html_url": "https://github.com/storytold/craft-launcher",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "craft-ai-integrations",
+  "name": "craft-ai-integrations",
+  "description": "Interim AI layer for the Craft apps",
+  "clone_url": "https://github.com/storytold/craft-ai-integrations.git",
+  "html_url": "https://github.com/storytold/craft-ai-integrations",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "craft-common-actions",
+  "name": "craft-common-actions",
+  "description": "",
+  "clone_url": "https://github.com/storytold/craft-common-actions.git",
+  "html_url": "https://github.com/storytold/craft-common-actions",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "craft-launcher-assets",
+  "name": "craft-launcher-assets",
+  "description": "Pictures ArtCraft Launcher downloads at run time",
+  "clone_url": "https://github.com/storytold/craft-launcher-assets.git",
+  "html_url": "https://github.com/storytold/craft-launcher-assets",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "winit",
+  "name": "winit",
+  "description": "Window handling library in pure Rust",
+  "clone_url": "https://github.com/storytold/winit.git",
+  "html_url": "https://github.com/storytold/winit",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "winprint.rs",
+  "name": "winprint.rs",
+  "description": "A crate for printing to a Windows printer device using Windows API",
+  "clone_url": "https://github.com/storytold/winprint.rs.git",
+  "html_url": "https://github.com/storytold/winprint.rs",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "ok"
+ },
+ {
+  "folder": "AniCraft",
+  "name": "AniCraft",
+  "description": "(upstream repo is EMPTY, no commits)",
+  "clone_url": "https://github.com/storytold/AniCraft.git",
+  "html_url": "https://github.com/storytold/AniCraft",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "empty-upstream"
+ },
+ {
+  "folder": "crafthub",
+  "name": "crafthub",
+  "description": "(upstream repo is EMPTY, no commits)",
+  "clone_url": "https://github.com/storytold/crafthub.git",
+  "html_url": "https://github.com/storytold/crafthub",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "empty-upstream"
+ },
+ {
+  "folder": "craft-contrib",
+  "name": "craft-contrib",
+  "description": "(upstream repo is EMPTY, no commits)",
+  "clone_url": "https://github.com/storytold/craft-contrib.git",
+  "html_url": "https://github.com/storytold/craft-contrib",
+  "fetched_at": "2026-10-17",
+  "fetch_status": "empty-upstream"
+ }
+]
